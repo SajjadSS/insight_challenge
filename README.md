@@ -23,11 +23,11 @@ in a seperate line in the text file.
 - "ft1.txt" is the output of "words_tweeted.py". It contains all words and number of times each has been repeated.  
 - "ft2.txt" is the output of "tweet_output.py". It contains the medians.   
    
-**"Run.sh"** is the shell script of the whole program.  
+**"run.sh"** is the shell script of the whole program.  
 
 ## How to run the program?
   
-In order to run the program you just need to open the shell script "Run.sh" in Terminal (command for windows). Results are "ft1.txt" 
+In order to run the program you just need to open the shell script "run.sh" in Terminal (command for windows). Results are "ft1.txt" 
 and "ft2.txt" stored in the "tweet_output" folder.
 
 
